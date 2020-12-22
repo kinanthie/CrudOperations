@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOperations", "CrudOperations\CrudOperations.csproj", "{6979D5B0-683E-4506-BB81-D813C8594D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6979D5B0-683E-4506-BB81-D813C8594D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6979D5B0-683E-4506-BB81-D813C8594D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6979D5B0-683E-4506-BB81-D813C8594D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6979D5B0-683E-4506-BB81-D813C8594D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC8C681-F4EB-41B2-AAAD-6DC3E1349A93}
+	EndGlobalSection
+EndGlobal
